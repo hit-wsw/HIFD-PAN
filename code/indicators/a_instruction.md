@@ -1,0 +1,5 @@
+canny_sobel.py:对图像应用canny与sobel边缘检测算子
+grey_quantitative_indicators.py:灰度图像定量指标
+img_diff.py:对比两张图像的差异
+qnr.py:QNR无参考指标
+quantitative_indicators.py:彩色图像定量指标
